@@ -1,0 +1,5 @@
+TEST DATA
+Dataset: MM-Office
+Dataset purpose: Multi-view and multi-modal office activity/action recognition.
+Official dataset link: https://doi.org/10.5281/zenodo.6088572
+Official GitHub repository: https://github.com/nttrd-mdlab/mm-office
